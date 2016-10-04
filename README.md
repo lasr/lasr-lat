@@ -30,13 +30,11 @@ EAGLE files for motor driver board fabrication and component list for ordering p
 
 Files to interface MATLAB and LAT. You will be able to write your controller on MATLAB and send torque or velocity commands to LAT via UDP protocol.
 
-Please make sure to take a look on the example file.
+Please make sure to take a look on the example file. (lat_control_xyz.m)
 
-### interface_python
+### python
 
 Files to interface Python and LAT. You will be able to write your controller on Python and send torque or velocity commands to LAT via UDP protocol.
-
-Please make sure to take a look on the example file.
 
 ### src
 
@@ -44,7 +42,7 @@ Files to be uploaded to the RaspberryPi on LAT. These files are responsible to p
 
 ## Questions and Further Information
 
-For further information please contact:
+For further information and assistance please contact:
 Vinicius Goecks: vinicius.goecks@tamu.edu
 
 Texas A&M University - Land, Air, and Space (LASR) Laboratory.
