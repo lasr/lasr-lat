@@ -1,10 +1,7 @@
 # LASR Attitude Platform (LAT)
 version 0.0.0 - July 05, 2016
 
-** This page is being developed - July 05, 2016 **
-For further information please contact:
-Austin Probe: abprobe88@gmail.com
-Vinicius Goecks: vinicius.goecks@tamu.edu
+![Alt text](/page/lasrat_hardware.jpg)
 
 ## Description
 
@@ -45,12 +42,9 @@ Please make sure to take a look on the example file.
 
 Files to be uploaded to the RaspberryPi on LAT. These files are responsible to provide communication and control the motors on LAT.
 
-## Instructions
-
 ## Questions and Further Information
 
 For further information please contact:
-Austin Probe: abprobe88@gmail.com
 Vinicius Goecks: vinicius.goecks@tamu.edu
 
 Texas A&M University - Land, Air, and Space (LASR) Laboratory.
