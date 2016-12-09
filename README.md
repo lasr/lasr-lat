@@ -7,7 +7,7 @@ version 0.0.0 - July 05, 2016
 
 Video of an early prototype demonstration:
 
-[![lat]](https://vimeo.com/194979233 "lat")
+https://vimeo.com/194979233
 
 ## Description
 
