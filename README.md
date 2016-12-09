@@ -3,6 +3,12 @@ version 0.0.0 - July 05, 2016
 
 ![Alt text](/page/lasrat_hardware.jpg)
 
+## Video
+
+Video of an early prototype demonstration:
+
+https://vimeo.com/194979233
+
 ## Description
 
 The LASR Attitude Test-bed, also called LAT, is a custom 3-DoF experimental attitude platform for testing attitude control and estimation algorithms.
