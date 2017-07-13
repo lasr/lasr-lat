@@ -1,0 +1,42 @@
+Mass properties of LAT2_0_big
+     Configuration: Default
+     Coordinate system: LAT Body Frame
+
+Mass = 4135.66 grams
+
+Volume = 1886334.44 cubic millimeters
+
+Surface area = 605199.89  square millimeters
+
+Center of mass: ( millimeters )
+	X = -22.77
+	Y = 3.07
+	Z = -57.05
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.03,  1.00,  0.00)   	Px = 76942344.86
+	 Iy = ( 1.00, -0.03,  0.00)   	Py = 78597901.79
+	 Iz = ( 0.00,  0.00, -1.00)   	Pz = 147014990.13
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 78596326.94	Lxy = 51351.31	Lxz = 31190.74
+	Lyx = 51351.31	Lyy = 76944424.24	Lyz = -185330.65
+	Lzx = 31190.74	Lzy = -185330.65	Lzz = 147014485.60
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 92093655.28	Ixy = -237864.23	Ixz = 5402726.06
+	Iyx = -237864.23	Iyy = 92546645.62	Iyz = -909956.47
+	Izx = 5402726.06	Izy = -909956.47	Izz = 149197409.61
+
+One or more components have overridden mass properties:
+	BodyPlate_bigger<1><Default>
+	PlateSupport_big<1><Default>
+	motor_withshaft<1><Default>@RWMotor<1><Default>
+	motor_withshaft<1><Default>@RWMotor<2><Default>
+	motor_withshaft<1><Default>@RWMotor<3><Default>
+	battery<1><Default>
+	boards<1><Default>
+	BatteryMount<1><Default>
